@@ -1,4 +1,4 @@
-"# Number-Guessing-Game" 
+# Number-Guessing-Game
 
 This program will generate a random number in the range 1 - 100, and then will prompt the user to guess it.
 
